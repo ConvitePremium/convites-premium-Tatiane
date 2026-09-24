@@ -90,9 +90,9 @@ window.CONFIG = {
   // mostrarTexto: true mostra “Voltar”; false deixa apenas a área clicável.
   // A posição pode ser alterada no editor ?editor=1.
   botoesVoltar: {
-    presentes: { mostrarTexto:false, posicao: {"left":24.2,"top":83.6,"width":55.0,"height":7.8} },
-    dresscode: { mostrarTexto:true, posicao: {"left":26.805437549920125,"top":86.88550214891683,"width":46.581485248602235,"height":5.424627114446271} },
-    manual: { mostrarTexto:true, posicao: {"left":25.783057732627793,"top":85.2744510457582,"width":47.80830358925719,"height":5.309555171188598} }
+    presentes: { mostrarTexto:false, posicao: {"left":30.538670626996804,"top":85.09597586758461,"width":38.64217252396166,"height":4.808057044341004} },
+    dresscode: { mostrarTexto:false, posicao: {"left":30.281469648562297,"top":86.65535606752393,"width":37.78914674021565,"height":4.504034009364401} },
+    manual: { mostrarTexto:false, posicao: {"left":29.872514601637377,"top":86.42519901174322,"width":39.629389851238024,"height":4.734189967706328} }
   },
 
   // ----- POSIÇÃO DOS BOTÕES NA TELA PRINCIPAL ----------------------------
@@ -101,14 +101,13 @@ window.CONFIG = {
   //   left/top: canto superior esquerdo do botão
   //   width/height: tamanho do botão
     hotspots: {
-        confirm: { left:19.111031037141306, top:63.8032059022128, width:15.963035699920129, height:8.57238650880756 },
-        map: { left:42.3313764835857, top:64.03332543810177, width:15.611963461541478, height:8.522989476077747 },
-        gift: { left:64.6203873670928, top:63.907444274051855, width:16.091044953075077, height:8.643484137471408 },
-        dress: { left:30.670926517571885, top:77.02597723193821, width:15.682105506190094, height:8.298251846116688 },
-        manual: { left:53.98780574768387, top:76.56567628964217, width:16.29551467651757, height:8.528402317264716 },
-        chacara: { left:41.5, top:88.0, width:17.0, height:7.5 }
+        confirm: { left:17.475242049521498, top:60.12082031261996, width:15.963035699920129, height:8.57238650880756 },
+        map: { left:42.53584620702819, top:60.12077181834043, width:15.611963461541478, height:8.522989476077747 },
+        gift: { left:66.46063047811516, top:59.994899433800754, width:16.091044953075077, height:8.643484137471408 },
+        dress: { left:17.993600863618212, top:74.14910731697567, width:15.682105506190094, height:8.298251846116688 },
+        manual: { left:42.12839018758004, top:74.14909853746545, width:16.29551467651757, height:8.528402317264716 },
+        chacara: { left:67.0591054313099, top:73.9608783267869, width:15.977635782747605, height:8.76582100668147 }
   },
-
   // ----- CONTAGEM REGRESSIVA ---------------------------------------------
   // Formato da data: ANO-MÊS-DIAT HORA:MINUTO:SEGUNDO (sem espaço antes do T).
   // Exemplo: "2026-10-03T16:00:00"
