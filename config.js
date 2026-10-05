@@ -13,7 +13,7 @@
    DICA: para reposicionar os botões da tela principal, abra o convite no
    navegador com ?editor=1 no final do link (ex.: .../index.html?editor=1),
    arraste os botões e clique em "Copiar código". Cole o resultado no campo
-   "hotspots" aqui embaixo.
+   "hotspots" aqui embaixo
    ========================================================================== */
 
 window.CONFIG = {
